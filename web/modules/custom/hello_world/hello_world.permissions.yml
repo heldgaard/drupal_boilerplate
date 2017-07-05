@@ -1,0 +1,7 @@
+'go fishing':
+  title: Go on a fishing trip
+  description: Allows the user to go on a fishing trip
+'leave fishing':
+  title: Leave the fishing trip
+  description: Allows the user to leave the fishing trip and go home
+  restrict access: TRUE
